@@ -17,7 +17,7 @@ console.log(app);
       <img src="./assets/vue.svg" class="logo vue" alt="Vue logo" />
     </a>
   </div>
-  <HelloWorld msg="Vite + Vue" />
+  <HelloWorld msg="Vite + Vue + build watcher" />
 </template>
 
 <style scoped>
