@@ -12,3 +12,8 @@
 
 - rollupOptions
 - webpack for vite
+
+- vite --force
+  - ignore dependency cache then reforce all dependency
+  
+
